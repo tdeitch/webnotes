@@ -5,7 +5,7 @@ Webnotes is a simple, single-user, password-protected<sup>1</sup> php webapp for
 
 1. Just because it's password-protected doesn't mean it's secure. This webapp is designed to store notes quickly on the go, not as a repository for secure information.
 
-![screenshot](screenshot.png)
+![screenshot](https://github.com/tdeitch/webnotes/raw/master/screenshot.png)
 
 Installation
 ------------
