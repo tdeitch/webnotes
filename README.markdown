@@ -13,4 +13,4 @@ Open `index.php` and find the line that looks like this:
 
     $cmp_pass[] = hash('sha256', 'password');
 
-Replace "password" with your password of choice. Upload `index.php` and `style.css` to a folder on a server with PHP. Change the permissions of the folder to 777.
+Replace "password" with your password of choice. Upload `index.php`, `style.css`, and `.htaccess` to a folder on a server with PHP. `.htaccess` is a hidden file, so be certain it's uploaded to the server. Finally, change the permissions of the folder to 777.
